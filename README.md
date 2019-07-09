@@ -1,7 +1,5 @@
 # Machine Learning - Stanford
 
-My learning resources and other files.
-
 Skills Earned:
 Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
 
