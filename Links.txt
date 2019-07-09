@@ -1,0 +1,8 @@
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+https://github.com/schneems/Octave/blob/master/mlclass-ex7/mlclass-ex7/computeCentroids.m
+
+https://bitbucket.org/karls/ml-class/src/2774034c767f?at=master
+https://github.com/schneems/Octave
+https://github.com/everpeace/ml-class-assignments
+https://git.cse.iitb.ac.in/shashijgupta/Image_Compression/blob/master/computeCentroids.m
