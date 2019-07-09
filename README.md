@@ -1,4 +1,4 @@
-# Machine-Learning - Stanford
+# Machine Learning - Stanford
 
 My learning resources and other files.
 
